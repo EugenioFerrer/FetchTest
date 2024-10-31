@@ -5,7 +5,7 @@ This is a native Android app that displays a filtered and sorted list of items.
 To set up and run this project on your local machine, follow these steps:
 
 1. Clone the repository:
-> git clone <https://github.com/KennethMathari/Fetch>
+> git clone <https://github.com/EugenioFerrer/FetchTest>
 2. Open the project in Android Studio.
 - Launch Android Studio and select Open an existing Android Studio project. Then navigate to the directory where you cloned the repository and select the project.
 3. Sync Gradle files:
